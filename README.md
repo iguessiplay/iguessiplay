@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
   <a href="https://twitter.com/iqosakezkepu"><img alt="Personal Twitter" src="https://img.shields.io/twitter/follow/iqosakezkepu?label=Twitter&style=flat-square&logo=twitter"></a>
-  <a href="https://twitter.com/concertshungary"><img alt="Concerts Hungary" src="https://img.shields.io/twitter/follow/concertshungary?label=ConcertsHungary&style=flat-square&logo=twitter"></a>
+  <a href="https://twitter.com/concertshungary"><img alt="Concerts Hungary" src="https://img.shields.io/twitter/follow/concertshungary?label=Concerts%Hungary&style=flat-square&logo=twitter"></a>
   <a href="https://github.com/iguessiplay/iguessiplay"><img alt="GitHub followers" src="https://img.shields.io/github/followers/iguessiplay?label=Github&style=flat-square&logo=github"></a>
 </p>
 
